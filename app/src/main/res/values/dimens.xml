@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="backgroundImageHeight">400dp</dimen>
+    <dimen name="largSpace">24dp</dimen>
+    <dimen name="normalText">16sp</dimen>
+    <dimen name="smallSpace">8dp</dimen>
+    <dimen name="coffeeCupSize">360dp</dimen>
+    <dimen name="normalSpace">16dp</dimen>
+    <dimen name="largText">24sp</dimen>
+    <dimen name="verySmallText">10sp</dimen>
+    <dimen name="backgroundCupSize">64dp</dimen>
+    <dimen name="specialCupSize">28dp</dimen>
+    <dimen name="smallText">12sp</dimen>
+    <dimen name="largCupSize">32dp</dimen>
+    <dimen name="cupNormalSize">24dp</dimen>
+    <dimen name="verySmallSpace">4dp</dimen>
+    <dimen name="largPadding">32dp</dimen>
+    <dimen name="normalPadding">16dp</dimen>
+    <dimen name="imageButtonSize">40dp</dimen>
+</resources>
